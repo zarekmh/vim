@@ -16,6 +16,7 @@ filetype plugin indent on
 " Aesthetics
 
 set background=light
+color desert
 
 
 " Miscellaneous
